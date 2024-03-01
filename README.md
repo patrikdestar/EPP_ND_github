@@ -1,1 +1,1 @@
-# EPP_ND_github
+# Namų darbų repository
